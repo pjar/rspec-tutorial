@@ -1,0 +1,17 @@
+/.bundle
+/db/*.sqlite3
+/db/schema.rb
+/log/*.log
+/tmp
+/config/*.yml
+/Guardfile
+.rvmrc
+/tags
+.DS_Store
+*.DS_Store
+/public/system
+.idea/
+.sass-cache/*
+app/assets/.sass-cache/
+db/schema.rb
+db/data.yml
